@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">抢红包</string>
+    <string name="description">开启自动抢红包服务</string>
+    <string name="isServiceOpen">红包服务已开启</string>
+    <string name="Hongbao_we_got">抢到的红包个数</string>
+    <string name="creator">from fish</string>
+</resources>
